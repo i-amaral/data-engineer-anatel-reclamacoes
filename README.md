@@ -30,5 +30,5 @@ Projeto de Engenharia de Dados ponta a ponta com foco na extração, transforma�
 
 ## 🔗 Links Úteis
 
-* [Base de Dados Bruta - Google Drive](https://drive.google.com/drive/folders/1a1llj-02C-xoyqmbeIBK5u7PMpUQMQZa?usp=drive_link)
+* [Dados Brutos + PBI - Google Drive](https://drive.google.com/drive/folders/1a1llj-02C-xoyqmbeIBK5u7PMpUQMQZa?usp=drive_link)
 * [Fonte Oficial - Anatel](https://dados.gov.br/dados/conjuntos-dados/solicitacoesregistradasnaanatel)
